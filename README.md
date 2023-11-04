@@ -1,4 +1,4 @@
-![Header](https://github.com/kulichkinayuliya/kulichkinayuliya/blob/main/header.png)
+![Header]()
 # Портфолио тестировщика ПО 
 
 ---
