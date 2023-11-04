@@ -28,6 +28,7 @@
 ![MSSQL](https://img.shields.io/badge/-MSSQL-111111?style=for-the-badge&logo=MicrosoftSQLServer&logoColor=da5150)
 ![EXCEL](https://img.shields.io/badge/-EXCEL-111111?style=for-the-badge&logo=MicrosoftExcel&logoColor=21a463)
 ![WORD](https://img.shields.io/badge/-WORD-111111?style=for-the-badge&logo=MicrosoftWord&logoColor=2a7cd2)
+![TILDA](https://img.shields.io/badge/-TILDA-111111?style=for-the-badge&logo=Tilda&logoColor=2a7cd2)
 ![1C](https://img.shields.io/badge/-1C-111111?style=for-the-badge&logo=1Ccompany)
 ![PROJECT](https://img.shields.io/badge/-PROJECT-111111?style=for-the-badge&logo=MicrosoftProject&logoColor=2a7cd2)
 ![SQL](https://img.shields.io/badge/-SQL-111111?style=for-the-badge&logo=sql&logoColor=2056c8)
