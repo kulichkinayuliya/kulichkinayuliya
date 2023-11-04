@@ -40,8 +40,8 @@
 
 ## 📁 Тестовая документация
 
-* [Чек-листы]()
-* [Тест-кейсы]()
+* [Чек-листы](https://github.com/kulichkinayuliya/Check-List/tree/main)
+* [Тест-кейсы](https://github.com/kulichkinayuliya/Test-Cases/tree/main)
 * [Баг-репорты]()
 * [SQL запросы]()
 * [Postman]()
