@@ -36,13 +36,15 @@
 ![NAVISION](https://img.shields.io/badge/-NAVISION-111111?style=for-the-badge&logo=MicrosoftDynamicsNAV)
 
 ---
+## 📊 [Анализ требований](https://github.com/kulichkinayuliya/Requirements-analysis)
 ## 📝 Техники [тест-дизайна](https://github.com/kulichkinayuliya/Test-Design/tree/main)
+
 
 ## 📁 Тестовая документация
 
 * [Чек-листы](https://github.com/kulichkinayuliya/Check-List/tree/main)
 * [Тест-кейсы](https://github.com/kulichkinayuliya/Test-Cases/tree/main)
-* [Баг-репорты]()
+* [Баг-репорты](https://github.com/kulichkinayuliya/Bug-Report/tree/main)
 * [SQL запросы]()
 * [Postman]()
   
