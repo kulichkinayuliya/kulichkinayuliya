@@ -45,7 +45,7 @@
 * [Чек-листы](https://github.com/kulichkinayuliya/Check-List/tree/main)
 * [Тест-кейсы](https://github.com/kulichkinayuliya/Test-Cases/tree/main)
 * [Баг-репорты](https://github.com/kulichkinayuliya/Bug-Report/tree/main)
-* [SQL запросы]()
+* [SQL запросы](https://github.com/kulichkinayuliya/SQL/tree/main)
 * [Postman]()
   
 ---
