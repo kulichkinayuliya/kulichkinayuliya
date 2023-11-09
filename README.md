@@ -46,7 +46,7 @@
 * [Тест-кейсы](https://github.com/kulichkinayuliya/Test-Cases/tree/main)
 * [Баг-репорты](https://github.com/kulichkinayuliya/Bug-Report/tree/main)
 * [SQL запросы](https://github.com/kulichkinayuliya/SQL/tree/main)
-* [Postman]()
+* [Postman](https://github.com/kulichkinayuliya/Postman/tree/main)
   
 ---
 
