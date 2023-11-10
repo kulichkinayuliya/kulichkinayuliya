@@ -44,6 +44,12 @@
 * [Баг-репорты](https://github.com/kulichkinayuliya/Bug-Report/tree/main)
 * [SQL запросы](https://github.com/kulichkinayuliya/SQL/tree/main)
 * [Postman](https://github.com/kulichkinayuliya/Postman/tree/main)
+
+---
+
+## 📜 Сертификаты
+
+["Тестирование ПО с нуля. Теория + Практика"](https://v2.coreapp.ai/certificate/pdf/654e4734bc714bdb437fc78c)
   
 ---
 
